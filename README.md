@@ -6,7 +6,6 @@ Thanks for stopping by my profile! Read on if you'd like to know a little more a
 - 🤓 I'm a brazilian software engineer with 2+ years of experience.
 - 👔 I'm currently working as a front-end developer using React.
 - 🎓 I recently graduated with a bachelor's degree in Computer Science from USP.
-- 😍 I _love_ implementing beautiful and ergonomic user interfaces, and I'm learning to design them on the side.
 - 👨‍💻 My first programming language was C and, though very confusing at first, it taught me **a lot** about coding and computers in general.
 - 🙋‍♂️ I hold a deeply rooted belief in the power of technology to generate positive social change and transform people's lives for the better, just as it did mine. For me, it started with spending countless hours playing games, customizing and tinkering with the family computer, and I haven't looked back since.
 
